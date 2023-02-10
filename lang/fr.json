@@ -1,0 +1,24 @@
+{
+    "cgu": "conditions générales d'utilisation",
+    "my_profile": "Mon profil",
+    "my_name": "Mon nom",
+    "nearby_parking": "parking à proximité",
+    "profile": "profil",
+    "parkings": "parkings",
+    "registered": "inscrits",
+    "reservations": "réservations",
+    "subscribers": "abonnés",
+    "dashboard": "accueil",
+    "you_are_login": "vous êtes connecté",
+    "firstname": "prénom",
+    "lastname": "nom",
+    "log_out": "se deconnecter",
+    "posts": "posts",
+    "you_are_loggin": "Vous êtes connecté",
+    "users": "utilisateurs",
+    "add_post": "ajouter un post",
+    "title" : "titre",
+    "description" : "description",
+    "save": "enregister"
+    
+}
